@@ -41,10 +41,13 @@ recognize obstacles that is not within its range. If in the direction, no obstac
 
 # Running experiment
 roslaunch mp3 gem_vehicle . launch
+
 ![image](https://user-images.githubusercontent.com/64373075/176823389-06a68cfa-e26f-48c3-bd3e-225a931fa8fe.png)
 
 python vehicle.py
+
 python set_pos.py
+
 python main . py −−num_particles 1000 −− sensor_limit 15
 
 
