@@ -50,4 +50,9 @@ python set_pos.py
 
 python main . py −−num_particles 1000 −− sensor_limit 15
 
+# Convergence
+![image](https://user-images.githubusercontent.com/64373075/176823959-1fdc97a9-70cc-4fc1-9b77-0468e58841f1.png)
+
+
+
 
