@@ -2,7 +2,6 @@
 Implemented MonteCarloLocalization
 
 Particle Filter Particles: 1000, Sensor Limit :25, 4 sides
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=AAfQPT1FK_Y)
 https://www.youtube.com/watch?v=AAfQPT1FK_Y
 
 MP3 Particle Filter Particles: 1000, Sensor Limit :20, 8 sides
